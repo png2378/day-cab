@@ -1,0 +1,3 @@
+This mod adds the ability to install Day Cabin on Long Chassis at default trucks – Kenworth T680, Peterbilt 579, Kenworth W900 and Peterbilt 389. Mod uses the standard game resources, so this trucks works correctly in singleplayer and multiplayer.
+
+How to activate in Multiplayer: Run and enable the mod in singleplayer, edit the truck that you want and then buy it and press save. Now, leave singleplayer and load up Multiplayer. Then choose your profile and it will say that you're missing mods, just press continue. Now you will see your truck that you modified and bought in singleplayer. Enjoy!

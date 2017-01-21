@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.exhaust
+{
+	name: "Standard Exhaust"
+	price: 6840
+	unlock: 8
+	icon: "kenworth_w900/exhaust_01"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/kenworth_w900/exhaust01.pmd"
+	suitable_for[]: "standard.kenworth.w900.cabin"
+	suitable_for[]: "exclusive.kenworth.w900.cabin"
+}
+}

@@ -1,0 +1,1 @@
+﻿This mod adds the ability to install Day Cabin on Long Chassis at default trucks – Kenworth T680, Peterbilt 579, Kenworth W900 and Peterbilt 389.
